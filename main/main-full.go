@@ -1,11 +1,8 @@
 package main
 import (
 	"fmt"
-	"module/програмирование/full"
+	"github.com/Yukiro-Proseko/test/full/full"
 )
-func SSD() int {
-	return 666
-}
 func main() {
 	fmt.Print(SSD())
 }
